@@ -127,6 +127,3 @@ MIT License - See LICENSE file for details.
 
 
 ---
-
-Would you like this published on GitHub with a preview link or do you want an additional `CONTRIBUTING.md` or `LICENSE` file scaffolded too?
-
